@@ -34,7 +34,7 @@ class Solution {
         if (i==0){
             return false;
         }
-            
+
         if (arr[i-1]>sum){
             return helper(arr,sum,i-1);
         }
