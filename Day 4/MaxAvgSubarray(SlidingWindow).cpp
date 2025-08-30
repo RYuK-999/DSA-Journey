@@ -29,7 +29,7 @@ class Solution {
 };
 
 
-// Same but i kinda tweaked it a little 
+// Same but I kinda tweaked it a little 
 
 class Solution {
   public:
